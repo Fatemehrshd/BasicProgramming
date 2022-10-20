@@ -8,5 +8,5 @@ def signCompare(a, b):
         return b
 
 num1, num2 =map(int, input().split())
-signCompare(num1, num2)
+print(signCompare(num1, num2))
 
