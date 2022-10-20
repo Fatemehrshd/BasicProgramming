@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[4]:
-
-
 # Get num1 & num2 from user and return the
 # greater one.
 def signCompare(a, b):
